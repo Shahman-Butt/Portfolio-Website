@@ -16,11 +16,11 @@ html {
 }
 
 .custombg {
-    background-color: black;
+    background-color: rgba(240, 234, 180, 0.637);
 }
 
 .textcustom {
-    color: #457efa !important;
+    color: #07283b !important;
     font-style: italic;
 }
 
